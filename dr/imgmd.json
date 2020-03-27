@@ -1,0 +1,14 @@
+cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/5644.png": "img1.json",
+"dr/5646.png": "img1.json",
+"dr/5648.png": "img1.json",
+"dr/5652.png": "img1.json",
+"dr/5654.png": "img1.json",
+"dr/5656.png": "img1.json",
+"dr/loading.gif": "img1.json",
+"dr/Text_Caption_1.png": "img1.json",
+"dr/Text_Caption_2.png": "img1.json",
+"dr/Text_Caption_3.png": "img1.json",
+"dr/Text_Caption_4.png": "img1.json",
+"dr/Text_Caption_5.png": "img1.json",
+"___":"___"};
